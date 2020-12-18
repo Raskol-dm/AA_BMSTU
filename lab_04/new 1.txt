@@ -1,0 +1,110 @@
+100:
+1       ParVInVer2      0.0304
+2       ParVInVer2      0.0103
+3       ParVInVer2      0.0124
+4       ParVInVer2      0.0096
+5       ParVInVer2      0.0095
+6       ParVInVer2      0.0096
+7       ParVInVer2      0.0089
+8       ParVInVer2      0.0149
+        ParVIn  0.035
+        VIn     0.029
+200:
+1       ParVInVer2      0.2623
+2       ParVInVer2      0.1126
+3       ParVInVer2      0.0524
+4       ParVInVer2      0.0511
+5       ParVInVer2      0.0408
+6       ParVInVer2      0.039
+7       ParVInVer2      0.0361
+8       ParVInVer2      0.0432
+        ParVIn  0.112
+        VIn     0.1129
+300:
+1       ParVInVer2      0.3493
+2       ParVInVer2      0.1836
+3       ParVInVer2      0.1438
+4       ParVInVer2      0.1176
+5       ParVInVer2      0.1072
+6       ParVInVer2      0.0963
+7       ParVInVer2      0.0887
+8       ParVInVer2      0.0849
+        ParVIn  0.3398
+        VIn     0.3222
+400:
+1       ParVInVer2      0.8011
+2       ParVInVer2      0.4657
+3       ParVInVer2      0.3416
+4       ParVInVer2      0.2774
+5       ParVInVer2      0.2472
+6       ParVInVer2      0.2249
+7       ParVInVer2      0.2035
+8       ParVInVer2      0.205
+        ParVIn  0.8448
+        VIn     0.822
+500:
+1       ParVInVer2      1.6275
+2       ParVInVer2      0.8433
+3       ParVInVer2      0.6352
+4       ParVInVer2      0.5599
+5       ParVInVer2      0.52
+6       ParVInVer2      0.4903
+7       ParVInVer2      0.4523
+8       ParVInVer2      0.4295
+        ParVIn  1.6074
+        VIn     1.6054
+600:
+1       ParVInVer2      2.9419
+2       ParVInVer2      1.5768
+3       ParVInVer2      1.2871
+4       ParVInVer2      1.0367
+5       ParVInVer2      0.9454
+6       ParVInVer2      1.0298
+7       ParVInVer2      0.8833
+8       ParVInVer2      0.8036
+        ParVIn  2.3116
+        VIn     2.2126
+700:
+1       ParVInVer2      3.7553
+2       ParVInVer2      1.7482
+3       ParVInVer2      1.3468
+4       ParVInVer2      1.2215
+5       ParVInVer2      1.2304
+6       ParVInVer2      1.0274
+7       ParVInVer2      0.9645
+8       ParVInVer2      0.9029
+        ParVIn  4.0377
+        VIn     3.891
+800:
+1       ParVInVer2      5.6366
+2       ParVInVer2      2.8997
+3       ParVInVer2      2.0945
+4       ParVInVer2      1.9597
+5       ParVInVer2      1.9944
+6       ParVInVer2      1.8944
+7       ParVInVer2      1.6543
+8       ParVInVer2      1.9005
+        ParVIn  7.16
+        VIn     5.88
+900:
+1       ParVInVer2      8.2134
+2       ParVInVer2      4.2291
+3       ParVInVer2      3.154
+4       ParVInVer2      2.8229
+5       ParVInVer2      2.6652
+6       ParVInVer2      2.5203
+7       ParVInVer2      2.3154
+8       ParVInVer2      2.265
+        ParVIn  7.6352
+        VIn     7.5545
+1000:
+1       ParVInVer2      12.4434
+2       ParVInVer2      6.8487
+3       ParVInVer2      5.7396
+4       ParVInVer2      4.6996
+5       ParVInVer2      4.2262
+6       ParVInVer2      4.0589
+7       ParVInVer2      3.7283
+8       ParVInVer2      3.6113
+        ParVIn  11.672
+        VIn     11.325
